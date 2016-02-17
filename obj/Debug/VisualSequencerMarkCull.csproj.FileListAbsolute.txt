@@ -1,0 +1,13 @@
+c:\users\mark\documents\visual studio 2015\Projects\VisualSequencerMarkCull\VisualSequencerMarkCull\bin\Debug\VisualSequencerMarkCull.exe.config
+c:\users\mark\documents\visual studio 2015\Projects\VisualSequencerMarkCull\VisualSequencerMarkCull\bin\Debug\VisualSequencerMarkCull.exe
+c:\users\mark\documents\visual studio 2015\Projects\VisualSequencerMarkCull\VisualSequencerMarkCull\bin\Debug\VisualSequencerMarkCull.pdb
+c:\users\mark\documents\visual studio 2015\Projects\VisualSequencerMarkCull\VisualSequencerMarkCull\obj\Debug\VisualSequencerMarkCull.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2015\Projects\VisualSequencerMarkCull\VisualSequencerMarkCull\obj\Debug\VisualSequencerMarkCull.Form1.resources
+c:\users\mark\documents\visual studio 2015\Projects\VisualSequencerMarkCull\VisualSequencerMarkCull\obj\Debug\VisualSequencerMarkCull.Properties.Resources.resources
+c:\users\mark\documents\visual studio 2015\Projects\VisualSequencerMarkCull\VisualSequencerMarkCull\obj\Debug\VisualSequencerMarkCull.csproj.GenerateResource.Cache
+c:\users\mark\documents\visual studio 2015\Projects\VisualSequencerMarkCull\VisualSequencerMarkCull\obj\Debug\VisualSequencerMarkCull.exe
+c:\users\mark\documents\visual studio 2015\Projects\VisualSequencerMarkCull\VisualSequencerMarkCull\obj\Debug\VisualSequencerMarkCull.pdb
+C:\Users\mark\documents\visual studio 2015\Projects\VisualSequencerMarkCull\VisualSequencerMarkCull\obj\Debug\VisualSequencerMarkCull.Resource1.resources
+D:\VisualSequencerMarkCull\VisualSequencerMarkCull\bin\Debug\VisualSequencerMarkCull.exe.config
+D:\VisualSequencerMarkCull\VisualSequencerMarkCull\obj\Debug\VisualSequencerMarkCull.exe
+D:\VisualSequencerMarkCull\VisualSequencerMarkCull\obj\Debug\VisualSequencerMarkCull.pdb
